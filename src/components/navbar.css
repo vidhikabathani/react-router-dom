@@ -1,0 +1,12 @@
+#nav{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}  
+#navbar{
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+    
+} 
