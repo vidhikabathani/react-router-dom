@@ -10,8 +10,8 @@ function Navigation() {
                 <h1><NavLink to='/' id='navbar'>Welcome!</NavLink></h1>
             <div>
             <NavLink to='/'id='navbar'>Home</NavLink>
-            <NavLink to='/Services' id='navbar'>Services</NavLink>
-            <NavLink to='/Pages' id='navbar'>Pages</NavLink>
+            <NavLink to='/Girls' id='navbar'>Girls</NavLink>
+            <NavLink to='/Boys' id='navbar'>Boys</NavLink>
             <NavLink to='/Blog' id='navbar'>Blog</NavLink>
             <NavLink to='/Contact' id='navbar'>Contact</NavLink>
             </div>
